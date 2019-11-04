@@ -203,7 +203,6 @@ set_property PACKAGE_PIN U17 [get_ports btnD]
 #set_property PACKAGE_PIN R18 [get_ports {JC[7]}]					
 	#set_property IOSTANDARD LVCMOS33 [get_ports {JC[7]}]
 
-
 ##Pmod Header JXADC
 ##Sch name = XA1_P
 #set_property PACKAGE_PIN J3 [get_ports {JXADC[0]}]				
